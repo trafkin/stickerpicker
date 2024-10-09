@@ -1,0 +1,9 @@
+{
+  "packs": [
+    "PEPEtop.json",
+    "PikachuSprites.json",
+    "PokemonMemeFace.json",
+    "SheldonCooper.json"
+  ],
+  "homeserver_url": "https://matrix.trafkin.com"
+}
